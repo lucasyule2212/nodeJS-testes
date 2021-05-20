@@ -1,0 +1,15 @@
+{
+  "name": "compressorimg",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Projeto para redimensionar uma imagem a partir de métodos instalados por npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Yule",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.28.2"
+  }
+}
